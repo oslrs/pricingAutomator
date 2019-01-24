@@ -1,0 +1,6 @@
+# Hides sensitive pricing files
+inputPricing/*
+outputPricing/*
+# Adds meaningless file so folder still shows up
+!inputPricing/.gitkeep
+!outputPricing/.gitkeep
